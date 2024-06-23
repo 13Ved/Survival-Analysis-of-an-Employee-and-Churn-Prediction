@@ -1,1 +1,8 @@
 # Survival-Analysis-of-an-Employee-and-Churn-Prediction
+
+Employee attrition and survival analysis are critical in today’s corporate environment, where talent acquisition and retention are major drivers of organizational success. With the job market becoming more competitive and employees having more options than ever, organizations must understand why employees leave and how long they stay. Employee attrition analysis assists firms in identifying trends, patterns, and underlying issues that drive turnover, allowing them to build focused retention strategies to keep top personnel.
+
+Understanding staff attrition and survival trends is critical in today’s business environment, when talent acquisition and retention are significant drivers of organizational success. This data assists companies in developing focused retention strategies and forecasting future attrition rates, allowing them to maintain a talented and motivated staff while driving organizational performance.
+
+Employee survival probabilities were determined using non-parametric techniques, such as the Kaplan-Meier (KM) estimator, because parametric approaches were unable to adequately represent the distribution of our data. After survival probabilities were established, we used the Cox regression technique to pinpoint the variables affecting the hazard rate. Using stepwise regression, we were able to simplify our first regression model—which included many variables—by keeping only the most significant variables that had an impact on the hazard rate. With the help of this method, we were able to efficiently determine and rank the major factors that influence employee turnover, which improved the usability and interpretation of our regression model.
+
