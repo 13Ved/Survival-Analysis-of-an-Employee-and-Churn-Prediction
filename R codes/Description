@@ -1,0 +1,14 @@
+Employee survival analysis uses both parametric and nonparametric methodologies to simulate the survival distribution based on available data. 
+Parametric approaches estimate survival probability by fitting certain distributions to the data, such as the exponential or Weibull distribution.
+Non-parametric approaches, such as the Kaplan-Meier estimator and the Cox regression model, are utilized when the underlying distribution is unknown or complex. 
+These methods provide useful information about employee tenure and the possibility of attrition over time. 
+
+
+
+Classification algorithms are critical in churn prediction since they help discover elements that contribute to attrition.
+Logistic Regression and Linear Discriminant Analysis are prominent methods for categorizing employees as churn or non-churn based on a variety of predictor variables. 
+By examining indicators such as job satisfaction, tenure, performance evaluations, and demographic characteristics, these algorithms can accurately anticipate 
+employee attrition and identify the most relevant reasons causing churn inside the firm. This allows HR managers to proactively address retention issues and apply tailored 
+initiatives to reduce turnover rates
+
+
